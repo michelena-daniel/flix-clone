@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flix-clone.Domain", "flix-clone.Domain\flix-clone.Domain.csproj", "{2104F734-DF75-41D9-A836-6FE8EEC8F6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flix-clone.Application", "flix-clone.Application\flix-clone.Application.csproj", "{AA17B3AD-5F90-4D8C-9994-1FD1AC14A214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flix-clone.Infrastructure", "flix-clone.Infrastructure\flix-clone.Infrastructure.csproj", "{80F60A2D-9832-4D8C-A0F4-FBA85FEFE062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flix-clone.API", "flix-clone.API\flix-clone.API.csproj", "{F189BC9C-D9E7-4158-9647-C7C5F1A27092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2104F734-DF75-41D9-A836-6FE8EEC8F6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2104F734-DF75-41D9-A836-6FE8EEC8F6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2104F734-DF75-41D9-A836-6FE8EEC8F6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2104F734-DF75-41D9-A836-6FE8EEC8F6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA17B3AD-5F90-4D8C-9994-1FD1AC14A214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA17B3AD-5F90-4D8C-9994-1FD1AC14A214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA17B3AD-5F90-4D8C-9994-1FD1AC14A214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA17B3AD-5F90-4D8C-9994-1FD1AC14A214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F60A2D-9832-4D8C-A0F4-FBA85FEFE062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F60A2D-9832-4D8C-A0F4-FBA85FEFE062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F60A2D-9832-4D8C-A0F4-FBA85FEFE062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F60A2D-9832-4D8C-A0F4-FBA85FEFE062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F189BC9C-D9E7-4158-9647-C7C5F1A27092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F189BC9C-D9E7-4158-9647-C7C5F1A27092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F189BC9C-D9E7-4158-9647-C7C5F1A27092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F189BC9C-D9E7-4158-9647-C7C5F1A27092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
